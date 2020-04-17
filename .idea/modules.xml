@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_luole/.idea/Python_luole.iml" filepath="$PROJECT_DIR$/../Python_luole/.idea/Python_luole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebTestTool/.idea/WebTestTool.iml" filepath="$PROJECT_DIR$/../WebTestTool/.idea/WebTestTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Agreement/proto/.idea/proto.iml" filepath="$PROJECT_DIR$/../Agreement/proto/.idea/proto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/protocoltest.iml" filepath="$PROJECT_DIR$/.idea/protocoltest.iml" />
+    </modules>
+  </component>
+</project>
